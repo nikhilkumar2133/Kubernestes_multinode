@@ -41,9 +41,4 @@ ansible-playbook filename
  ```
  ***
 
-## ARTICLE 
 
-You can go through the [article]( https://dswriting.medium.com/configuring-k8s-cluster-using-ansible-role-in-aws-deb57a0e5f61for) more details .                                                                          
-
-
-![67fb22aa0142b62effc23870f80cf39d](https://user-images.githubusercontent.com/71714243/111205712-892b6d00-85ed-11eb-9c7b-3e97a1af880a.jpg)
